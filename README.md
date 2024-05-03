@@ -55,7 +55,7 @@ You can click the Preview link to take a look at your changes.
 </p>
    <br>
    
-<h2><img src = "https://cdn-icons-png.freepik.com/512/6596/6596115.png" width="50" height="50"> Contact</h2>
+<h2> Contact</h2>
  <p>
    <a href= "https://www.linkedin.com/in/richard-miranda-6903a6265/">  
      <img src="https://cdn.icon-icons.com/icons2/805/PNG/512/linkedin_icon-icons.com_65929.png" width="50" height="50"/>
