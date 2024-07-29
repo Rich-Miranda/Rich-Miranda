@@ -1,11 +1,3 @@
-<p align = "center">
-   <img src = "https://i.giphy.com/xUNda2utO7Z5xHuOwo.webp" width="1100" height="100" >
-  
-</p>
-
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00d4ff&size=35&center=true&vCenter=true&width=1000&lines=Looking+to'impress+in+programming)](https://git.io/typing-svg)
-
 
 - 👋 Hi, I’m Richard Miranda As a young black Christian, I have a huge passion for technology and games, which are one of my favorite hobbies. I seek to improve more and more about programming every day and seek new learning about the area.
 <ul>
@@ -22,27 +14,18 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-<h2>Language of study programming in Back-end</h2>
+<h2>Language</h2>
 
    <p>
     <img src="https://cdn.icon-icons.com/icons2/112/PNG/512/python_18894.png"  width="50" height="50" />
     <img src="https://cdn-icons-png.flaticon.com/128/226/226777.png" alt="Headphone" width="50" height="50" />
     <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/mysql_official_logo_icon_169938.png"  width="70" height="50" />
-  
-</p>
-
-<br>
-<br>
-<h2>Language of study programming in Front-end</h2>
-
-   <p>
-   <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_html_icon_130541.png" width="50" height="50" />
+     <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_html_icon_130541.png" width="50" height="50" />
     <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_css_icon_130661.png" width="50" height="50" />
     <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_js_official_icon_130509.png" width="50" height="50" />
   
+  
 </p>
-
-<br>
 
  
      
@@ -59,6 +42,7 @@ You can click the Preview link to take a look at your changes.
  <p>
    <a href= "https://www.linkedin.com/in/richard-miranda-6903a6265/">  
      <img src="https://cdn.icon-icons.com/icons2/805/PNG/512/linkedin_icon-icons.com_65929.png" width="50" height="50"/>
+    
    </a>
 </p>
 
