@@ -4,9 +4,7 @@
   <li>👀 Student Analyze System Development</li> 
 </ul>
 
-![Richard](https://github-readme-stats.vercel.app/api?username=Rich-Miranda&show_icons=true&theme=transparent)
 
-Check out my [Instagram](https://www.instagram.com/rdzin.s7/) .
 
 <!---
 Rich-Miranda/Rich-Miranda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -37,6 +35,12 @@ You can click the Preview link to take a look at your changes.
    <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/intellij_pycharm_macos_bigsur_icon_190055.png"  width="50" height="50" />
 </p>
    <br>
+
+
+
+![Richard](https://github-readme-stats.vercel.app/api?username=Rich-Miranda&show_icons=true&theme=transparent)
+
+Check out my [Instagram](https://www.instagram.com/rdzin.s7/) .
    
 <h2> Contact</h2>
  <p>
@@ -45,4 +49,6 @@ You can click the Preview link to take a look at your changes.
     
    </a>
 </p>
+
+
 
