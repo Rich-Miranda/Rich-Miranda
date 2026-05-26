@@ -1,18 +1,12 @@
 
-- 👋 Hi, I’m Richard Miranda As a young black Christian, I have a huge passion for technology and games, which are one of my favorite hobbies. I seek to improve more and more about programming every day and seek new learning about the area.
-<ul>
-  <li>👀 Student Analyze System Development</li> 
-</ul>
+- 👋 Olá, Prazer! Richard Miranda! Amo a tecnologia em todos requisitos. Foi por causa dela que mudou a minha vida e minha visão a área... O gosto sobre a tecnologia surgiu desde da area dos videogames, onde tive meu primeiro contato com jogos diversos e sempre tive curiosidade de como funcionava a mecanica por detrás dos games, então meu desenvolvimento na área foi apenas moldando, conhecendo, buscando, aprendendo. Ao entrar nessa nova jornada e querer conhecer mais sobre essa profissão, decidir então iniciar com alguns cursos de informática, na qual, as metodologias e tecnologia apresentada fizeram que aproximasse mais da área e querer conhecer mais desse novo universo, tendo contato com desenvolvimento em desafios propostos em sala de aulas, problemas que fazem superar limite e muito mais.
+
+Portanto, essa área é um dos maiores ramos já criado pela humanidade, principalmente a área de desenvolvimento, que traz uma diversidade de desafios e enigmas para resolver a fins de entregar o melhor para cliente. Concluo, que essa profissão é o que envolve a explorar mais sobre essa area e saciar as curiosidades que cresce diariamente e não tem fim no conhecimento....
+
+- Formado em Ánalise de Desenvolvimento de Sistema</li> 
 
 
-
-<!---
-Rich-Miranda/Rich-Miranda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-
-<h2>Language</h2>
+<h2>Ferramentas</h2>
 
    <p>
     <img src="https://cdn.icon-icons.com/icons2/112/PNG/512/python_18894.png"  width="50" height="50" />
@@ -21,34 +15,13 @@ You can click the Preview link to take a look at your changes.
      <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_html_icon_130541.png" width="50" height="50" />
     <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_css_icon_130661.png" width="50" height="50" />
     <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_js_official_icon_130509.png" width="50" height="50" />
-  
-  
-</p>
-
- 
-     
-<h2>Tools programming</h2>
-<p >
-      <img src="https://cdn.icon-icons.com/icons2/3660/PNG/512/visual_studio_code_logo_microsoft_vs_icon_228486.png" width="50" height="50" />
-    <img src="https://cdn.icon-icons.com/icons2/1381/PNG/512/eclipse_94656.png" width="50" height="50"  />
-    <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/intellij_macos_bigsur_icon_190061.png" width="50" height="50" />
-   <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/intellij_pycharm_macos_bigsur_icon_190055.png"  width="50" height="50" />
-</p>
-   <br>
+  </p>
 
 
-
-![Richard](https://github-readme-stats.vercel.app/api?username=Rich-Miranda&show_icons=true&theme=transparent)
-
-Check out my [Instagram](https://www.instagram.com/rdzin.s7/) .
    
-<h2> Contact</h2>
+<h2>Contanto</h2>
  <p>
    <a href= "https://www.linkedin.com/in/richard-miranda-6903a6265/">  
      <img src="https://cdn.icon-icons.com/icons2/805/PNG/512/linkedin_icon-icons.com_65929.png" width="50" height="50"/>
-    
    </a>
 </p>
-
-
-
