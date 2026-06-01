@@ -18,7 +18,7 @@
 
 
    
-<h2>Contanto</h2>
+<h2>Contato</h2>
  <p>
    <a href= "https://www.linkedin.com/in/richard-miranda-6903a6265/">  
      <img src="https://cdn.icon-icons.com/icons2/805/PNG/512/linkedin_icon-icons.com_65929.png" width="50" height="50"/>
